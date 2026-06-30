@@ -9,7 +9,7 @@ A binary classification project to detect fraudulent credit card transactions un
 
 ## 2. Data
 
-- **Source:** [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- **Source:** Kaggle Credit Card Fraud Detection
 - **Size:** ~54,000 transactions, 153 fraud cases (~0.29%)
 - **Features:** V1–V28 (PCA-anonymized), Time, Amount / Target: `Class`
 

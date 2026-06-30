@@ -1,3 +1,4 @@
+> [한국어 버전](README.ko.md)
 # Credit Card Fraud Detection
 
 A binary classification project to detect fraudulent credit card transactions under **extreme class imbalance** (only ~0.17% of transactions are fraud). The focus is not on building a flashy model, but on **evaluating models honestly** and **choosing the right tool for the data**.
